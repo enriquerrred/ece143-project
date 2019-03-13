@@ -1,0 +1,839 @@
+Gender,Age,Branch,Administration Level,Entry Time,Years of Service,Highest Education Level,Status,Rank,Salary Rank,Description,Attrition
+Female,39,BRC Culture & Tourism,General Manager,3/8/10,9,Bachelor,Full-time,6,M 6.1,Management,Yes
+Male,42,BRC Culture & Tourism,Deputy General Manager,5/6/10,8,Graduate Level (Master & Ph.d.),Full-time,5,M 5.1,Human Resources,Yes
+Male,27,BRC Culture & Tourism,Staff,7/1/14,1,Bachelor,Full-time,1,P 1.1,Human Resources,Yes
+Male,39,BRC Culture & Tourism,General Manager,8/31/04,13,Bachelor,Full-time,6,M 6.1,Commercial Operation-Commercial Management,Yes
+Female,35,BRC Culture & Tourism,Assistant General Manager,3/18/14,3,Bachelor,Full-time,4,P 4.1,Commercial Operation-Planning,Yes
+Male,30,BRC Culture & Tourism,Staff,7/12/12,4,Bachelor,Full-time,1,P 1.2,Commercial Operation-Common,Yes
+Male,27,BRC Culture & Tourism,Deputy Manager,9/8/15,2,Bachelor,Full-time,2,P 2.1,Property Management,Yes
+Female,35,BRC Culture & Tourism,Sipervisor,6/25/12,2,Graduate Level (Master & Ph.d.),Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Male,46,BRC Culture & Tourism,Assistant General Manager,9/27/13,5,Bachelor,Full-time,4,P 4.2,Property Management,Yes
+Male,32,BRC Culture & Tourism,Staff,5/18/16,6,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Commercial Operation-Investment,Yes
+Female,29,BRC Culture & Tourism,Staff,9/14/15,1,Graduate Level (Master & Ph.d.),Full-time,1,P 1.1,Marketing & CRM-Costumer Relationship,Yes
+Male,33,BRC Culture & Tourism,Manager,2/6/17,1,Bachelor,Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Male,35,BRC Culture & Tourism,Assistant General Manager,5/4/15,7,Bachelor,Full-time,4,P 4.1,Commercial Operation-Planning,Yes
+Female,44,BRC Culture & Tourism,Deputy General Manager,5/22/15,0,"Community College, Two-Year Program, or Equivalent ",Full-time,5,M 5.1,Marketing & CRM-Marketing,Yes
+Male,34,BRC Culture & Tourism,Manager,5/22/15,1,Graduate Level (Master & Ph.d.),Full-time,3,P 3.1,Commercial Operation-Common,Yes
+Male,40,BRC Culture & Tourism,Assistant General Manager,7/13/15,0,Bachelor,Full-time,4,P 4.1,Project Management,Yes
+Female,25,BRC Culture & Tourism,Staff,7/1/15,2,Bachelor,Full-time,1,P 1.2,Commercial Operation-Operation Management,Yes
+Male,37,BRC Culture & Tourism,Manager,4/20/15,0,Bachelor,Full-time,3,P 3.1,Commercial Operation-Planning,Yes
+Female,29,BRC Culture & Tourism,Assistant General Manager,5/4/15,3,Bachelor,Full-time,4,P 4.1,Commercial Operation-Planning,Yes
+Male,39,BRC Culture & Tourism,Assistant General Manager,5/8/15,2,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.1,Commercial Operation-Commercial Management,Yes
+Male,35,BRC Culture & Tourism,Assistant General Manager,5/21/15,0,Bachelor,Full-time,4,P 4.1,Commercial Operation-Planning,Yes
+Male,37,BRC Culture & Tourism,Assistant General Manager,5/19/15,1,Bachelor,Full-time,4,P 4.1,Commercial Operation-Commercial Management,Yes
+Female,26,BRC Culture & Tourism,Staff,7/1/15,2,Bachelor,Full-time,1,P 1.3,Commercial Operation-Planning,Yes
+Male,31,BRC Culture & Tourism,Staff,11/2/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Marketing & CRM-Marketing,Yes
+Male,32,BRC Culture & Tourism,Manager,6/10/15,1,Bachelor,Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Male,29,BRC Culture & Tourism,Staff,6/10/15,2,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Commercial Operation-Investment,Yes
+Male,41,BRC Culture & Tourism,Assistant General Manager,6/8/15,0,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.2,Commercial Operation-Investment,Yes
+Male,29,BRC Culture & Tourism,Deputy Manager,7/1/15,3,Graduate Level (Master & Ph.d.),Full-time,2,P 2.1,Finance-Accounting,Yes
+Male,37,BRC Culture & Tourism,Assistant General Manager,3/20/15,0,Bachelor,Full-time,4,P 4.2,Commercial Operation-Operation Management,Yes
+Female,35,BRC Culture & Tourism,Manager,5/28/18,0,Bachelor,Full-time,3,P 3.1,Commercial Operation-Investment,Yes
+Male,29,BRC Culture & Tourism,Staff,4/22/15,1,Bachelor,Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Male,37,BRC Culture & Tourism,Deputy Manager,4/21/15,0,"Community College, Two-Year Program, or Equivalent ",Full-time,2,P 2.1,Commercial Operation-Operation Management,Yes
+Male,29,BRC Culture & Tourism,Staff,4/23/15,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.0,Commercial Operation-Planning,Yes
+Male,37,BRC Culture & Tourism,Assistant General Manager,5/11/15,0,Bachelor,Full-time,4,P 4.1,Commercial Operation-Commercial Management,Yes
+Male,32,BRC Culture & Tourism,Assistant General Manager,6/6/18,0,Bachelor,Full-time,4,P 4.1,Commercial Operation-Planning,Yes
+Male,41,BRC Culture & Tourism,Assistant General Manager,11/8/17,1,Bachelor,Full-time,4,P 4.2,Commercial Operation-Operation Management,Yes
+Male,29,BRC Culture & Tourism,Staff,10/24/17,0,Bachelor,Full-time,1,P 1.3,Commercial Operation-Customer Service,Yes
+Male,23,BRC Culture & Tourism,Operator,10/25/17,0,Bachelor,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,23,BRC Culture & Tourism,Staff,7/1/18,0,Bachelor,Part-time,1,P 1.1,Commercial Operation-Customer Service,Yes
+Male,25,BRC Culture & Tourism,Staff,10/16/17,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Common,Yes
+Female,34,BRC Culture & Tourism,Manager,9/21/17,0,Bachelor,Full-time,3,P 3.1,Marketing & CRM-Planning,Yes
+Male,32,BRC Culture & Tourism,Staff,2/26/18,0,Bachelor,Full-time,1,P 1.3,Project Management,No
+Male,31,BRC Culture & Tourism,Manager,3/1/18,0,Graduate Level (Master & Ph.d.),Full-time,3,P 3.1,Commercial Operation-Planning,No
+Male,29,BRC Culture & Tourism,Staff,12/28/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Marketing & CRM-Planning,Yes
+Male,41,BRC Culture & Tourism,Deputy General Manager,1/5/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,5,M 5.1,Commercial Operation-Commercial Management,Yes
+Female,25,BRC Culture & Tourism,Staff,5/3/18,0,Bachelor,Full-time,1,P 1.1,Finance-Accounting,Yes
+Female,26,BRC Culture & Tourism,Staff,5/2/18,0,Bachelor,Full-time,1,P 1.3,Marketing & CRM-Planning,Yes
+Male,31,BRC Culture & Tourism,Assistant General Manager,6/6/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.2,Marketing & CRM-Marketing,Yes
+Male,39,BRC Culture & Tourism,Staff,5/3/18,0,High School,Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Male,29,BRC Culture & Tourism,Manager,5/4/18,0,Bachelor,Full-time,3,P 3.1,Project Management,Yes
+Male,29,BRC Culture & Tourism,Operator,5/2/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,33,BRC Culture & Tourism,Operator,5/2/18,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,28,BRC Culture & Tourism,Operator,5/2/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,25,BRC Culture & Tourism,Operator,5/2/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,25,BRC Culture & Tourism,Staff,12/28/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Property Management,Yes
+Male,35,BRC Culture & Tourism,Manager,11/24/17,0,Bachelor,Full-time,3,P 3.1,Bidding,Yes
+Male,38,BRC Culture & Tourism,Assistant General Manager,12/29/17,1,Graduate Level (Master & Ph.d.),Full-time,4,P 4.1,Planning-Comprehensive,No
+Female,25,BRC Culture & Tourism,Staff,5/4/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Planning-Comprehensive,Yes
+Male,33,BRC Culture & Tourism,Staff,5/3/18,0,Bachelor,Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Male,32,BRC Culture & Tourism,Manager,5/8/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Marketing & CRM-Marketing,Yes
+Male,27,BRC Culture & Tourism,Operator,5/8/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,31,BRC Culture & Tourism,Manager,4/12/18,0,Bachelor,Full-time,3,P 3.1,Finance-Comprehensive,Yes
+Male,49,BRC Culture & Tourism,General Manager,4/16/18,0,Graduate Level (Master & Ph.d.),Full-time,5,M 5.1,Project Management,No
+Male,31,BRC Culture & Tourism,Assistant General Manager,4/23/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.2,Marketing & CRM-Marketing,No
+Male,26,BRC Culture & Tourism,Staff,4/16/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Planning-Design,No
+Male,41,BRC Culture & Tourism,Deputy General Manager,4/23/18,0,Bachelor,Full-time,5,M 5.1,Finance-Investment,No
+Female,32,BRC Culture & Tourism,Manager,4/27/18,0,Graduate Level (Master & Ph.d.),Full-time,3,P 3.1,Planning-Design,Yes
+Female,23,BRC Culture & Tourism,Staff,4/2/18,0,Bachelor,Intern,1,P 1.1,Auditing-Cost Management,Yes
+Female,22,BRC Culture & Tourism,Staff,3/26/18,0,Bachelor,Intern,1,P 1.1,Marketing & CRM-Marketing,Yes
+Male,35,BRC Culture & Tourism,Assistant General Manager,4/8/18,0,Bachelor,Full-time,4,P 4.1,Marketing & CRM-Planning,Yes
+Female,34,BRC Culture & Tourism,Manager,4/13/18,0,Bachelor,Full-time,3,P 3.1,Commercial Operation-Planning,Yes
+Male,35,BRC Culture & Tourism,Assistant General Manager,4/23/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.1,Marketing & CRM-Marketing,Yes
+Male,31,BRC Culture & Tourism,Assistant General Manager,4/20/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.1,Planning-Comprehensive,No
+Female,25,BRC Culture & Tourism,Staff,12/1/17,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Bidding,Yes
+Male,38,BRC Culture & Tourism,Assistant General Manager,12/25/17,1,Bachelor,Full-time,4,P 4.1,Planning-Design,No
+Female,37,BRC Culture & Tourism,Assistant General Manager,12/12/17,1,Bachelor,Full-time,4,P 4.1,Commercial Operation-Planning,No
+Female,38,BRC Culture & Tourism,Assistant General Manager,12/11/17,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.2,Commercial Operation-Operation Management,Yes
+Male,31,BRC Culture & Tourism,Manager,12/29/17,0,Bachelor,Full-time,3,P 3.1,Auditing-Cost Management,Yes
+Male,33,BRC Culture & Tourism,Deputy Manager,12/14/17,0,Bachelor,Full-time,2,P 2.1,Administration,Yes
+Male,33,BRC Culture & Tourism,Deputy General Manager,12/20/17,0,Bachelor,Full-time,5,P 5.1,Bidding,Yes
+Male,35,BRC Culture & Tourism,Manager,1/24/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Project Management,Yes
+Male,32,BRC Culture & Tourism,Manager,12/11/17,0,Bachelor,Full-time,3,P 3.1,Auditing,Yes
+Male,38,BRC Culture & Tourism,Assistant General Manager,2/25/18,0,Bachelor,Full-time,4,P 4.1,Project Management,No
+Male,38,BRC Culture & Tourism,Assistant General Manager,3/1/18,0,Bachelor,Full-time,4,P 4.2,Project Management,No
+Male,36,BRC Culture & Tourism,Assistant General Manager,1/24/18,0,Bachelor,Full-time,4,P 4.1,Finance-Comprehensive,Yes
+Male,38,BRC Culture & Tourism,Assistant General Manager,1/19/18,1,Bachelor,Full-time,4,P 4.1,Commercial Operation-Planning,No
+Male,57,BRC Culture & Tourism,Deputy Chairman,12/12/17,1,Bachelor,Full-time,8,M 8.1,Administration,No
+Male,34,BRC Culture & Tourism,Manager,12/29/17,0,Bachelor,Full-time,3,P 3.1,Planning,Yes
+Male,43,BRC Culture & Tourism,Manager,1/22/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Male,23,BRC Culture & Tourism,Staff,11/28/17,0,Bachelor,Intern,1,P 1.1,Human Resources,Yes
+Male,25,BRC Culture & Tourism,Operator,4/28/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Female,27,BRC Culture & Tourism,Operator,4/21/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Finance-Seller,Yes
+Female,24,BRC Culture & Tourism,Operator,4/21/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,27,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,25,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,26,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,28,BRC Culture & Tourism,Operator,4/27/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,23,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Female,28,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,33,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,31,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,24,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,27,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,37,BRC Culture & Tourism,Operator,3/29/17,0,High School,Full-time,1,P 1.0,Property Management,Yes
+Male,35,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,23,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,28,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Female,27,BRC Culture & Tourism,Operator,4/21/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Female,26,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,32,BRC Culture & Tourism,Operator,4/21/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,25,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,22,BRC Culture & Tourism,Operator,4/21/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,25,BRC Culture & Tourism,Operator,5/1/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,47,BRC Culture & Tourism,Operator,4/21/17,1,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,33,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,24,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,23,BRC Culture & Tourism,Operator,4/21/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,37,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,38,BRC Culture & Tourism,Operator,4/21/17,1,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,28,BRC Culture & Tourism,Operator,3/27/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Property Management,Yes
+Female,27,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,29,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,41,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,22,BRC Culture & Tourism,Operator,4/21/17,1,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,38,BRC Culture & Tourism,Deputy General Manager,6/5/17,1,Bachelor,Full-time,5,P 5.1,Planning-Comprehensive,Yes
+Female,28,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,36,BRC Culture & Tourism,Operator,4/21/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,25,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,24,BRC Culture & Tourism,Operator,4/21/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,25,BRC Culture & Tourism,Operator,4/21/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,35,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,23,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,25,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Female,29,BRC Culture & Tourism,Operator,4/21/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,29,BRC Culture & Tourism,Operator,4/21/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,34,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,32,BRC Culture & Tourism,Operator,4/21/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,48,BRC Culture & Tourism,Operator,4/21/17,1,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,28,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,23,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,33,BRC Culture & Tourism,Operator,4/21/17,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Female,29,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,23,BRC Culture & Tourism,Operator,4/21/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Female,31,BRC Culture & Tourism,Operator,4/20/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,No
+Male,33,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,30,BRC Culture & Tourism,Operator,4/21/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,32,BRC Culture & Tourism,Operator,4/5/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,No
+Female,27,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Finance-Seller,Yes
+Female,45,BRC Culture & Tourism,Operator,4/21/17,1,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,26,BRC Culture & Tourism,Operator,4/5/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,No
+Male,26,BRC Culture & Tourism,Operator,4/21/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,25,BRC Culture & Tourism,Operator,4/1/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,31,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,29,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,22,BRC Culture & Tourism,Operator,4/21/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Female,35,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,31,BRC Culture & Tourism,Staff,4/4/17,0,Bachelor,Full-time,1,P 1.3,Commercial Operation-Common,Yes
+Female,32,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,25,BRC Culture & Tourism,Operator,4/24/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,25,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Female,22,BRC Culture & Tourism,Operator,4/21/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,29,BRC Culture & Tourism,Operator,3/30/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,29,BRC Culture & Tourism,Operator,3/30/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Project Management,Yes
+Male,26,BRC Culture & Tourism,Operator,3/30/17,1,Under High School,Full-time,1,P 1.0,Project Management,Yes
+Male,24,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,25,BRC Culture & Tourism,Operator,2/15/17,2,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,No
+Male,31,BRC Culture & Tourism,Operator,4/19/17,1,Under High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,No
+Female,33,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Finance-Seller,Yes
+Female,39,BRC Culture & Tourism,Assistant General Manager,5/22/17,0,Bachelor,Full-time,4,P 4.2,Planning-Comprehensive,Yes
+Male,24,BRC Culture & Tourism,Operator,4/21/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,28,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,36,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,27,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,26,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,27,BRC Culture & Tourism,Staff,4/17/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Female,29,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Finance-Seller,Yes
+Male,25,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Finance-Seller,Yes
+Female,30,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,54,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,31,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,49,BRC Culture & Tourism,Operator,4/21/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,27,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,28,BRC Culture & Tourism,Operator,5/1/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,30,BRC Culture & Tourism,Operator,4/13/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,24,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,24,BRC Culture & Tourism,Operator,4/13/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,31,BRC Culture & Tourism,Operator,4/5/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,No
+Male,44,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Female,33,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,31,BRC Culture & Tourism,Operator,4/20/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Common,No
+Male,28,BRC Culture & Tourism,Operator,4/5/17,1,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,No
+Female,34,BRC Culture & Tourism,Operator,4/20/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,No
+Male,25,BRC Culture & Tourism,Staff,4/1/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Marketing & CRM-Channel,Yes
+Female,30,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,28,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Female,35,BRC Culture & Tourism,Operator,4/21/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,36,BRC Culture & Tourism,Manager,4/24/18,0,Bachelor,Full-time,3,P 3.1,Planning-Design,Yes
+Male,32,BRC Culture & Tourism,Manager,4/27/18,0,Bachelor,Full-time,3,P 3.2,Investment,No
+Male,31,BRC Culture & Tourism,Assistant General Manager,8/31/18,0,Bachelor,Full-time,4,P 4.1,Auditing,No
+Male,28,BRC Culture & Tourism,Operator,4/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,22,BRC Culture & Tourism,Staff,4/11/18,0,Bachelor,Intern,1,P 1.1,Planning,Yes
+Female,29,BRC Culture & Tourism,Manager,4/17/18,0,Bachelor,Full-time,3,P 3.1,Investment,Yes
+Male,44,BRC Culture & Tourism,Manager,4/17/18,0,Bachelor,Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Male,29,BRC Culture & Tourism,Manager,5/2/18,0,Bachelor,Full-time,3,P 3.1,Marketing & CRM-Marketing,No
+Male,28,BRC Culture & Tourism,Manager,4/27/18,0,Graduate Level (Master & Ph.d.),Full-time,3,P 3.1,Finance-Tax,Yes
+Male,32,BRC Culture & Tourism,Operator,4/19/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,28,BRC Culture & Tourism,Operator,5/2/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,22,BRC Culture & Tourism,Staff,4/2/18,0,Bachelor,Intern,1,P 1.1,Marketing & CRM-Planning,Yes
+Female,24,BRC Culture & Tourism,Staff,4/9/18,0,Bachelor,Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Male,33,BRC Culture & Tourism,Staff,4/10/18,0,Bachelor,Full-time,1,P 1.1,Marketing & CRM-Channel,No
+Female,22,BRC Culture & Tourism,Operator,4/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,27,BRC Culture & Tourism,Operator,4/16/18,0,High School,Full-time,1,P 1.0,Management,Yes
+Male,29,BRC Culture & Tourism,Staff,4/10/18,0,Bachelor,Full-time,1,P 1.3,Marketing & CRM-Channel,No
+Female,32,BRC Culture & Tourism,Manager,5/2/18,0,Bachelor,Full-time,3,P 3.1,Marketing & CRM-Planning,Yes
+Male,30,BRC Culture & Tourism,Staff,4/24/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Marketing & CRM-Channel,Yes
+Female,27,BRC Culture & Tourism,Staff,4/2/18,0,Bachelor,Full-time,1,P 1.3,Commercial Operation-Investment,No
+Female,30,BRC Culture & Tourism,Staff,4/23/18,0,Bachelor,Full-time,1,P 1.1,Administration,Yes
+Male,30,BRC Culture & Tourism,Manager,5/7/18,0,Bachelor,Full-time,3,P 3.1,Property Management,Yes
+Female,28,BRC Culture & Tourism,Manager,4/16/18,0,Bachelor,Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Male,32,BRC Culture & Tourism,Manager,3/19/18,0,Bachelor,Full-time,3,P 3.1,Marketing & CRM-Marketing,Yes
+Female,32,BRC Culture & Tourism,Staff,3/26/18,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Planning,Yes
+Female,32,BRC Culture & Tourism,Staff,3/12/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Finance-Accounting,Yes
+Male,26,BRC Culture & Tourism,Staff,3/12/18,0,Bachelor,Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Female,31,BRC Culture & Tourism,Staff,3/23/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Finance-Cashier,Yes
+Male,24,BRC Culture & Tourism,Staff,3/19/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Marketing & CRM-Planning,Yes
+Female,26,BRC Culture & Tourism,Staff,4/2/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Marketing & CRM-Planning,Yes
+Male,35,BRC Culture & Tourism,Manager,4/26/18,0,Bachelor,Full-time,3,P 3.1,Planning-Design,Yes
+Female,30,BRC Culture & Tourism,Staff,3/26/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Management,Yes
+Female,31,BRC Culture & Tourism,Staff,2/28/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Finance-Accounting,No
+Male,34,BRC Culture & Tourism,Manager,2/20/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Male,30,BRC Culture & Tourism,Manager,3/30/18,0,Bachelor,Full-time,3,P 3.1,Project Management,Yes
+Male,31,BRC Culture & Tourism,Manager,3/12/18,0,Bachelor,Full-time,3,P 3.1,Project Management,Yes
+Male,42,BRC Culture & Tourism,Assistant General Manager,3/26/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.2,Commercial Operation-Planning,Yes
+Male,37,BRC Culture & Tourism,Manager,3/27/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Male,26,BRC Culture & Tourism,Deputy Manager,3/21/18,0,Bachelor,Full-time,2,P 2.1,Commercial Operation-Operation Management,Yes
+Female,25,BRC Culture & Tourism,Staff,3/15/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Human Resources,Yes
+Male,39,BRC Culture & Tourism,Assistant General Manager,3/26/18,0,Bachelor,Full-time,4,P 4.2,Planning-Design,Yes
+Male,42,BRC Culture & Tourism,Deputy General Manager,3/28/18,0,Graduate Level (Master & Ph.d.),Full-time,5,M 5.1,Project Management,No
+Female,26,BRC Culture & Tourism,Staff,3/22/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Human Resources,Yes
+Male,22,BRC Culture & Tourism,Staff,3/12/18,0,Bachelor,Intern,1,P 1.1,Internal Business,Yes
+Female,25,BRC Culture & Tourism,Staff,3/22/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Investment,Yes
+Female,20,BRC Culture & Tourism,Operator,3/15/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Internal Business,Yes
+Male,43,BRC Culture & Tourism,Assistant General Manager,6/11/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.2,Planning-Design,Yes
+Male,28,BRC Culture & Tourism,Staff,3/12/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Female,20,BRC Culture & Tourism,Operator,3/10/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Common,Yes
+Male,19,BRC Culture & Tourism,Operator,3/14/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,33,BRC Culture & Tourism,Assistant General Manager,3/21/17,1,Bachelor,Full-time,4,P 4.2,Property Management,Yes
+Male,30,BRC Culture & Tourism,Operator,3/16/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Finance-Accounting,Yes
+Female,22,BRC Culture & Tourism,Operator,3/14/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,20,BRC Culture & Tourism,Operator,3/14/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,25,BRC Culture & Tourism,Operator,3/20/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,25,BRC Culture & Tourism,Operator,3/15/17,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,20,BRC Culture & Tourism,Operator,3/10/17,1,High School,Intern,1,P 1.0,Commercial Operation-Common,Yes
+Female,19,BRC Culture & Tourism,Operator,3/14/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,31,BRC Culture & Tourism,Assistant General Manager,4/17/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.1,Commercial Operation-Operation Management,Yes
+Female,29,BRC Culture & Tourism,Staff,3/22/17,0,Bachelor,Full-time,1,P 1.3,Marketing & CRM-Planning,Yes
+Male,26,BRC Culture & Tourism,Operator,3/13/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Project Management,Yes
+Male,29,BRC Culture & Tourism,Manager,7/17/17,0,Bachelor,Full-time,3,P 3.1,Marketing & CRM-Channel,Yes
+Female,32,BRC Culture & Tourism,Staff,3/20/17,1,Bachelor,Full-time,1,P 1.3,Management-Brand Management,Yes
+Female,24,BRC Culture & Tourism,Staff,3/27/17,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Operation Management,Yes
+Male,31,BRC Culture & Tourism,Staff,3/6/17,0,Bachelor,Full-time,1,P 1.1,Marketing & CRM-Marketing & CRM Management,Yes
+Female,26,BRC Culture & Tourism,Operator,3/20/17,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,27,BRC Culture & Tourism,Operator,3/13/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,28,BRC Culture & Tourism,Operator,3/15/17,1,Bachelor,Full-time,1,P 1.0,Commercial Operation-Operation Management,No
+Female,24,BRC Culture & Tourism,Staff,3/3/17,1,High School,Full-time,1,P 1.1,Commercial Operation-Operation Management,Yes
+Female,28,BRC Culture & Tourism,Staff,3/20/17,1,Bachelor,Full-time,1,P 1.1,Finance-Accounting,Yes
+Male,31,BRC Culture & Tourism,Deputy Manager,3/7/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,2,P 2.1,Commercial Operation-Investment,Yes
+Female,28,BRC Culture & Tourism,Operator,3/17/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,28,BRC Culture & Tourism,Operator,3/7/17,1,Bachelor,Full-time,1,P 1.0,Internal Business,Yes
+Male,26,BRC Culture & Tourism,Staff,2/28/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Male,34,BRC Culture & Tourism,Manager,3/10/17,0,Bachelor,Full-time,3,P 3.1,Marketing & CRM-Channel,Yes
+Female,31,BRC Culture & Tourism,Staff,3/13/17,1,Bachelor,Full-time,1,P 1.1,Finance-Accounting,No
+Female,21,BRC Culture & Tourism,Operator,3/17/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,32,BRC Culture & Tourism,Staff,3/20/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Commercial Operation-Common,Yes
+Male,32,BRC Culture & Tourism,Operator,3/6/17,0,Bachelor,Full-time,1,P 1.0,Finance-Accounting,Yes
+Female,31,BRC Culture & Tourism,Staff,2/27/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.2,Finance-Cashier,Yes
+Male,27,BRC Culture & Tourism,Staff,3/6/17,0,High School,Full-time,1,P 1.1,Commercial Operation-Operation Management,Yes
+Female,30,BRC Culture & Tourism,Staff,3/20/17,0,Bachelor,Full-time,1,P 1.3,Marketing & CRM-Planning,Yes
+Male,34,BRC Culture & Tourism,Deputy Manager,3/10/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,2,P 2.1,Commercial Operation-Common,Yes
+Female,32,BRC Culture & Tourism,Operator,3/16/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,22,BRC Culture & Tourism,Operator,3/8/17,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,27,BRC Culture & Tourism,Operator,3/20/17,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,31,BRC Culture & Tourism,Manager,3/15/17,1,Bachelor,Full-time,3,P 3.1,Marketing & CRM-Channel,No
+Male,34,BRC Culture & Tourism,Staff,3/15/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Female,25,BRC Culture & Tourism,Staff,2/15/17,0,Graduate Level (Master & Ph.d.),Part-time,1,P 1.1,Finance-Accounting,Yes
+Male,25,BRC Culture & Tourism,Operator,3/3/17,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,27,BRC Culture & Tourism,Operator,3/20/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,32,BRC Culture & Tourism,Staff,2/22/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Male,27,BRC Culture & Tourism,Staff,7/1/17,0,Graduate Level (Master & Ph.d.),Full-time,1,P 1.2,Investment,Yes
+Male,28,BRC Culture & Tourism,Staff,3/20/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Male,26,BRC Culture & Tourism,Operator,3/6/17,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,26,BRC Culture & Tourism,Operator,3/8/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,25,BRC Culture & Tourism,Operator,3/8/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,37,BRC Culture & Tourism,Deputy Manager,3/6/17,0,Bachelor,Full-time,2,P 2.1,Marketing & CRM-Channel,Yes
+Female,21,BRC Culture & Tourism,Operator,3/8/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,35,BRC Culture & Tourism,Deputy Manager,3/6/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,2,P 2.1,Commercial Operation-Planning,Yes
+Female,26,BRC Culture & Tourism,Staff,7/6/17,0,Graduate Level (Master & Ph.d.),Part-time,1,P 1.1,Commercial Operation-Planning,Yes
+Male,32,BRC Culture & Tourism,Deputy Manager,3/29/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,2,P 2.1,Marketing & CRM-Marketing,Yes
+Female,36,BRC Culture & Tourism,Assistant General Manager,3/26/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.2,Commercial Operation-Planning,Yes
+Male,37,BRC Culture & Tourism,Assistant General Manager,3/12/18,0,Bachelor,Full-time,4,P 4.2,Planning-Design,No
+Male,28,BRC Culture & Tourism,Staff,3/1/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Management,Yes
+Male,30,BRC Culture & Tourism,Deputy Manager,3/1/18,0,Bachelor,Full-time,2,P 2.1,Commercial Operation-Operation Management,Yes
+Male,47,BRC Culture & Tourism,Deputy General Manager,3/7/18,0,Bachelor,Full-time,5,M 5.1,Planning-Design,Yes
+Female,30,BRC Culture & Tourism,Manager,2/23/18,0,Graduate Level (Master & Ph.d.),Full-time,3,P 3.1,Auditing,Yes
+Female,32,BRC Culture & Tourism,Manager,2/1/18,0,Bachelor,Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Male,40,BRC Culture & Tourism,Deputy General Manager,3/19/18,0,Bachelor,Full-time,5,P 5.1,Planning-Comprehensive,Yes
+Female,23,BRC Culture & Tourism,Staff,2/1/18,0,Bachelor,Intern,1,P 1.1,Planning,Yes
+Male,36,BRC Culture & Tourism,Manager,3/12/18,0,Bachelor,Full-time,3,P 3.1,Project Management,Yes
+Male,39,BRC Culture & Tourism,Manager,3/1/18,0,Bachelor,Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Male,43,BRC Culture & Tourism,Deputy General Manager,3/5/18,0,Bachelor,Full-time,5,M 5.1,Project Management,Yes
+Male,44,BRC Culture & Tourism,Assistant General Manager,3/14/18,0,Bachelor,Full-time,4,P 4.2,Commercial Operation-Operation Management,Yes
+Male,48,BRC Culture & Tourism,Assistant General Manager,3/5/18,0,High School,Full-time,4,P 4.2,Commercial Operation-Operation Management,No
+Male,32,BRC Culture & Tourism,Manager,3/19/18,0,Bachelor,Full-time,3,P 3.1,Planning-Design,Yes
+Female,41,BRC Culture & Tourism,Assistant General Manager,2/26/18,0,Bachelor,Full-time,4,P 4.2,Commercial Operation-Planning,Yes
+Male,36,BRC Culture & Tourism,Assistant General Manager,3/1/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.2,Finance-Budget,No
+Male,36,BRC Culture & Tourism,Assistant General Manager,3/1/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.2,Commercial Operation-Planning,No
+Male,30,BRC Culture & Tourism,Assistant General Manager,4/6/18,0,Bachelor,Full-time,4,P 4.2,Commercial Operation-Operation Management,No
+Male,29,BRC Culture & Tourism,Manager,2/28/18,0,Bachelor,Full-time,3,P 3.1,Project Management,No
+Female,19,BRC Culture & Tourism,Operator,1/25/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,38,BRC Culture & Tourism,Assistant General Manager,3/5/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.2,Planning-Design,Yes
+Male,37,BRC Culture & Tourism,Assistant General Manager,3/7/18,0,Bachelor,Full-time,4,P 4.2,Bidding,Yes
+Male,33,BRC Culture & Tourism,Assistant General Manager,2/22/18,0,Bachelor,Full-time,4,P 4.1,Auditing-Cost Management,Yes
+Female,29,BRC Culture & Tourism,Staff,1/25/18,0,Bachelor,Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Male,41,BRC Culture & Tourism,General Manager,2/26/18,0,Graduate Level (Master & Ph.d.),Full-time,6,M 6.1,Planning-Comprehensive,Yes
+Male,24,BRC Culture & Tourism,Operator,12/25/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,20,BRC Culture & Tourism,Operator,1/13/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,28,BRC Culture & Tourism,Operator,12/20/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,25,BRC Culture & Tourism,Operator,6/24/17,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,26,BRC Culture & Tourism,Operator,2/4/17,2,Bachelor,Intern,1,P 1.0,Commercial Operation-Customer Service,No
+Male,34,BRC Culture & Tourism,Assistant General Manager,1/16/17,2,Bachelor,Full-time,4,P 4.1,Marketing & CRM-Marketing,No
+Female,21,BRC Culture & Tourism,Operator,1/14/17,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,24,BRC Culture & Tourism,Operator,1/13/17,0,Bachelor,Intern,1,P 1.0,Commercial Operation-Common,Yes
+Female,21,BRC Culture & Tourism,Operator,1/18/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,31,BRC Culture & Tourism,Staff,1/13/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Project Management,Yes
+Male,19,BRC Culture & Tourism,Operator,1/16/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,27,BRC Culture & Tourism,Deputy Manager,12/20/16,1,Bachelor,Full-time,2,P 2.1,Marketing & CRM-Planning,Yes
+Male,21,BRC Culture & Tourism,Operator,1/13/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,21,BRC Culture & Tourism,Operator,12/29/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,33,BRC Culture & Tourism,Staff,2/10/17,2,Bachelor,Full-time,1,P 1.3,Finance-Accounting,No
+Female,20,BRC Culture & Tourism,Operator,12/30/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,21,BRC Culture & Tourism,Operator,1/13/17,0,High School,Intern,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,24,BRC Culture & Tourism,Operator,12/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,19,BRC Culture & Tourism,Operator,7/13/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,31,BRC Culture & Tourism,Operator,12/22/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,27,BRC Culture & Tourism,Operator,12/19/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,22,BRC Culture & Tourism,Operator,1/17/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,25,BRC Culture & Tourism,Staff,2/6/17,1,Graduate Level (Master & Ph.d.),Part-time,1,P 1.1,Human Resources,Yes
+Male,48,BRC Culture & Tourism,Operator,1/18/17,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,45,BRC Culture & Tourism,Operator,1/18/17,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,20,BRC Culture & Tourism,Operator,7/13/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,20,BRC Culture & Tourism,Operator,9/1/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,52,BRC Culture & Tourism,Operator,1/18/17,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,19,BRC Culture & Tourism,Operator,1/13/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,29,BRC Culture & Tourism,Staff,12/15/16,0,Bachelor,Full-time,1,P 1.1,Marketing & CRM-Marketing & CRM Management,Yes
+Female,42,BRC Culture & Tourism,Operator,1/17/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,25,BRC Culture & Tourism,Staff,2/1/17,1,Graduate Level (Master & Ph.d.),Full-time,1,P 1.1,Commercial Operation-Planning,Yes
+Female,53,BRC Culture & Tourism,Operator,1/10/17,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,30,BRC Culture & Tourism,Deputy Manager,1/10/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,2,P 2.1,Commercial Operation-Commercial Management,Yes
+Male,25,BRC Culture & Tourism,Operator,1/10/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,28,BRC Culture & Tourism,Operator,12/15/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,27,BRC Culture & Tourism,Operator,2/3/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,32,BRC Culture & Tourism,Assistant General Manager,2/24/17,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.2,Marketing & CRM-Marketing,Yes
+Male,24,BRC Culture & Tourism,Operator,12/25/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,23,BRC Culture & Tourism,Operator,1/17/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,19,BRC Culture & Tourism,Operator,12/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,24,BRC Culture & Tourism,Operator,12/28/16,0,Bachelor,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,21,BRC Culture & Tourism,Operator,1/11/17,2,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,No
+Male,28,BRC Culture & Tourism,Staff,1/19/17,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Common,Yes
+Male,20,BRC Culture & Tourism,Operator,2/7/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,31,BRC Culture & Tourism,Deputy Manager,5/4/15,0,Bachelor,Full-time,2,P 2.1,Marketing & CRM-Marketing,Yes
+Male,27,BRC Culture & Tourism,Operator,12/12/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Female,26,BRC Culture & Tourism,Operator,11/24/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,25,BRC Culture & Tourism,Operator,12/15/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,22,BRC Culture & Tourism,Operator,11/25/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,25,BRC Culture & Tourism,Staff,12/1/16,0,Bachelor,Intern,1,P 1.1,Commercial Operation-Operation Management,Yes
+Male,35,BRC Culture & Tourism,Staff,12/16/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Project Management,Yes
+Female,29,BRC Culture & Tourism,Staff,12/12/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Commercial Operation-Operation Management,Yes
+Female,24,BRC Culture & Tourism,Staff,7/1/17,1,Bachelor,Full-time,1,P 1.1,Investment,Yes
+Male,19,BRC Culture & Tourism,Operator,12/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,32,BRC Culture & Tourism,Staff,12/1/16,1,Bachelor,Full-time,1,P 1.2,Finance-Accounting,Yes
+Female,25,BRC Culture & Tourism,Staff,12/30/16,0,Bachelor,Intern,1,P 1.1,Management-Brand Management,Yes
+Female,23,BRC Culture & Tourism,Operator,12/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,22,BRC Culture & Tourism,Operator,7/1/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,20,BRC Culture & Tourism,Operator,12/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,19,BRC Culture & Tourism,Operator,12/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,23,BRC Culture & Tourism,Operator,12/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,20,BRC Culture & Tourism,Operator,7/13/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,34,BRC Culture & Tourism,Deputy Manager,12/14/16,0,Bachelor,Full-time,2,P 2.1,Marketing & CRM-Channel,Yes
+Male,33,BRC Culture & Tourism,Assistant General Manager,11/23/16,0,Bachelor,Full-time,4,P 4.2,Commercial Operation-Operation Management,Yes
+Female,20,BRC Culture & Tourism,Operator,11/24/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,27,BRC Culture & Tourism,Operator,12/15/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,29,BRC Culture & Tourism,Deputy Manager,12/13/16,0,Bachelor,Full-time,2,P 2.1,Marketing & CRM-Planning,Yes
+Female,37,BRC Culture & Tourism,Staff,11/15/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Commercial Operation-Operation Management,Yes
+Male,19,BRC Culture & Tourism,Operator,7/13/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,34,BRC Culture & Tourism,Staff,10/20/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Marketing & CRM-Planning,Yes
+Female,26,BRC Culture & Tourism,Staff,11/25/16,0,Bachelor,Full-time,1,P 1.1,Management-Brand Management,Yes
+Male,40,BRC Culture & Tourism,Manager,10/14/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Female,30,BRC Culture & Tourism,Deputy Manager,10/26/16,0,Bachelor,Full-time,2,P 2.1,Commercial Operation-Investment,Yes
+Male,32,BRC Culture & Tourism,Staff,11/10/16,1,Bachelor,Full-time,1,P 1.1,Project Management,Yes
+Male,44,BRC Culture & Tourism,Operator,11/14/16,0,High School,Full-time,1,P 1.0,Project Management,Yes
+Male,31,BRC Culture & Tourism,Manager,4/16/18,0,Bachelor,Full-time,3,P 3.1,Project Management,Yes
+Male,32,BRC Culture & Tourism,Staff,10/26/16,0,Bachelor,Full-time,1,P 1.3,Marketing & CRM-Channel,Yes
+Male,33,BRC Culture & Tourism,Assistant General Manager,2/20/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.1,Commercial Operation-Commercial Management,Yes
+Male,33,BRC Culture & Tourism,Assistant General Manager,11/25/16,2,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.2,Marketing & CRM-Marketing,No
+Male,28,BRC Culture & Tourism,Operator,11/10/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,36,BRC Culture & Tourism,Deputy General Manager,3/3/17,1,Bachelor,Full-time,5,M 5.1,Commercial Operation-Commercial Management,Yes
+Male,29,BRC Culture & Tourism,Operator,11/30/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,40,BRC Culture & Tourism,Assistant General Manager,11/7/16,2,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.1,Commercial Operation-Commercial Management,No
+Male,36,BRC Culture & Tourism,Staff,11/4/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Project Management,Yes
+Female,29,BRC Culture & Tourism,Staff,8/16/16,1,Bachelor,Full-time,1,P 1.2,Commercial Operation-Investment,Yes
+Male,38,BRC Culture & Tourism,Staff,9/18/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Commercial Operation-Customer Service,Yes
+Male,41,BRC Culture & Tourism,Assistant General Manager,9/26/16,0,Bachelor,Full-time,4,P 4.2,Commercial Operation-Operation Management,Yes
+Female,51,BRC Culture & Tourism,Operator,7/21/16,1,Under High School,Full-time,1,P 1.0,Property Management,Yes
+Female,26,BRC Culture & Tourism,Staff,9/21/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.2,Commercial Operation-Customer Service,Yes
+Male,23,BRC Culture & Tourism,Staff,7/15/16,1,Bachelor,Intern,1,P 1.1,Finance-Accounting,Yes
+Male,32,BRC Culture & Tourism,Manager,7/1/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Commercial Operation-Commercial Management,Yes
+Female,23,BRC Culture & Tourism,Operator,6/28/16,0,Bachelor,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,23,BRC Culture & Tourism,Operator,6/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,22,BRC Culture & Tourism,Operator,6/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,32,BRC Culture & Tourism,Staff,7/15/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Marketing & CRM-Design,Yes
+Female,53,BRC Culture & Tourism,Operator,7/21/16,1,Under High School,Full-time,1,P 1.0,Property Management,Yes
+Male,27,BRC Culture & Tourism,Operator,7/31/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,21,BRC Culture & Tourism,Operator,6/8/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,22,BRC Culture & Tourism,Operator,6/16/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,21,BRC Culture & Tourism,Operator,6/22/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,25,BRC Culture & Tourism,Operator,7/7/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,30,BRC Culture & Tourism,Operator,7/5/16,1,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,32,BRC Culture & Tourism,Deputy Manager,9/26/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,2,P 2.1,Commercial Operation-Planning,Yes
+Female,20,BRC Culture & Tourism,Operator,6/23/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,23,BRC Culture & Tourism,Staff,7/1/17,0,Bachelor,Full-time,1,P 1.1,Finance-Accounting,Yes
+Male,36,BRC Culture & Tourism,Manager,8/9/16,1,Graduate Level (Master & Ph.d.),Full-time,3,P 3.1,Commercial Operation-Planning,Yes
+Male,47,BRC Culture & Tourism,Manager,9/28/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Female,23,BRC Culture & Tourism,Operator,6/28/16,0,Bachelor,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,20,BRC Culture & Tourism,Operator,6/22/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,23,BRC Culture & Tourism,Operator,6/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,23,BRC Culture & Tourism,Operator,6/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,31,BRC Culture & Tourism,Staff,8/30/16,2,High School,Full-time,1,P 1.2,Commercial Operation-Common,Yes
+Female,21,BRC Culture & Tourism,Operator,10/11/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,36,BRC Culture & Tourism,Staff,9/26/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Marketing & CRM-Design,Yes
+Female,20,BRC Culture & Tourism,Operator,10/11/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,27,BRC Culture & Tourism,Staff,10/10/16,1,Bachelor,Full-time,1,P 1.1,Commercial Operation-Investment,Yes
+Female,20,BRC Culture & Tourism,Operator,7/14/16,0,High School,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,23,BRC Culture & Tourism,Operator,7/15/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,30,BRC Culture & Tourism,Staff,9/6/16,0,Bachelor,Full-time,1,P 1.1,Marketing & CRM-Online Marketing,Yes
+Female,20,BRC Culture & Tourism,Operator,6/22/16,1,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,21,BRC Culture & Tourism,Operator,6/22/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,20,BRC Culture & Tourism,Operator,6/8/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,29,BRC Culture & Tourism,Staff,8/15/16,2,Bachelor,Full-time,1,P 1.1,Internal Business,No
+Female,32,BRC Culture & Tourism,Staff,9/26/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Human Resources,Yes
+Female,21,BRC Culture & Tourism,Operator,6/8/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,34,BRC Culture & Tourism,Manager,9/22/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Marketing & CRM-Marketing,Yes
+Female,20,BRC Culture & Tourism,Operator,6/22/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,22,BRC Culture & Tourism,Operator,6/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,20,BRC Culture & Tourism,Operator,7/16/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,36,BRC Culture & Tourism,Staff,10/10/16,0,Bachelor,Full-time,1,P 1.1,Marketing & CRM-Marketing,Yes
+Male,42,BRC Culture & Tourism,Manager,7/1/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Finance-Accounting,Yes
+Male,36,BRC Culture & Tourism,Assistant General Manager,9/27/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.2,Commercial Operation-Commercial Management,Yes
+Male,29,BRC Culture & Tourism,Staff,8/15/16,1,Bachelor,Full-time,1,P 1.1,Marketing & CRM-Marketing,Yes
+Female,20,BRC Culture & Tourism,Operator,7/2/16,0,Bachelor,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,20,BRC Culture & Tourism,Operator,7/2/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,21,BRC Culture & Tourism,Operator,6/23/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,24,BRC Culture & Tourism,Operator,7/2/16,0,Bachelor,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,19,BRC Culture & Tourism,Operator,7/2/16,0,High School,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,62,BRC Culture & Tourism,Operator,10/11/16,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,48,BRC Culture & Tourism,Operator,10/11/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,41,BRC Culture & Tourism,Operator,7/5/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,28,BRC Culture & Tourism,Staff,8/23/16,1,Bachelor,Full-time,1,P 1.3,Finance-Budget,Yes
+Male,35,BRC Culture & Tourism,Manager,10/31/16,0,Bachelor,Full-time,3,P 3.1,Marketing & CRM-Marketing,Yes
+Female,33,BRC Culture & Tourism,Staff,8/19/16,0,Bachelor,Full-time,1,P 1.1,Internal Business,Yes
+Female,28,BRC Culture & Tourism,Staff,10/19/16,0,Bachelor,Full-time,1,P 1.1,Management-Brand Management,Yes
+Male,43,BRC Culture & Tourism,Operator,7/21/18,0,High School,Full-time,1,P 1.0,Project Management,Yes
+Male,23,BRC Culture & Tourism,Operator,7/22/18,0,High School,Full-time,1,P 1.0,Project Management,Yes
+Male,27,BRC Culture & Tourism,Staff,7/23/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Marketing & CRM-Design,No
+Male,29,BRC Culture & Tourism,Manager,7/25/18,0,Bachelor,Full-time,3,P 3.1,Planning-Comprehensive,Yes
+Female,25,BRC Culture & Tourism,Staff,7/24/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Commercial Operation-Common,Yes
+Male,31,BRC Culture & Tourism,Manager,8/1/18,0,Bachelor,Full-time,3,P 3.1,Marketing & CRM-Marketing,Yes
+Male,27,BRC Culture & Tourism,Manager,7/20/18,0,Bachelor,Full-time,3,P 3.1,Marketing & CRM-Planning,Yes
+Male,25,BRC Culture & Tourism,Staff,7/23/18,0,Bachelor,Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Female,24,BRC Culture & Tourism,Operator,7/14/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,34,BRC Culture & Tourism,Staff,7/16/18,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Common,No
+Male,24,BRC Culture & Tourism,Staff,7/16/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Project Management,Yes
+Male,26,BRC Culture & Tourism,Assistant General Manager,7/30/18,0,Bachelor,Full-time,4,P 4.1,Bidding,No
+Male,30,BRC Culture & Tourism,Operator,7/17/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Internal Business,Yes
+Male,23,BRC Culture & Tourism,Operator,7/23/18,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,21,BRC Culture & Tourism,Operator,8/1/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,23,BRC Culture & Tourism,Operator,8/1/18,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,23,BRC Culture & Tourism,Operator,8/1/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,24,BRC Culture & Tourism,Operator,8/1/18,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,23,BRC Culture & Tourism,Operator,7/12/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,21,BRC Culture & Tourism,Staff,7/9/18,0,Bachelor,Intern,1,P 1.1,Planning-Comprehensive,Yes
+Female,27,BRC Culture & Tourism,Staff,7/23/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Marketing & CRM-Planning,Yes
+Male,24,BRC Culture & Tourism,Operator,8/1/18,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,21,BRC Culture & Tourism,Operator,7/23/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,27,BRC Culture & Tourism,Staff,8/2/18,0,Bachelor,Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Female,20,BRC Culture & Tourism,Operator,6/22/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,21,BRC Culture & Tourism,Operator,7/2/16,0,Bachelor,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,20,BRC Culture & Tourism,Operator,6/22/16,1,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,36,BRC Culture & Tourism,Manager,8/15/16,1,Bachelor,Full-time,3,P 3.2,Planning-Design,Yes
+Female,21,BRC Culture & Tourism,Operator,6/23/16,1,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,35,BRC Culture & Tourism,Operator,7/5/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,28,BRC Culture & Tourism,Operator,7/5/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,26,BRC Culture & Tourism,Operator,7/5/16,1,Under High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,23,BRC Culture & Tourism,Operator,7/2/16,0,Bachelor,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,22,BRC Culture & Tourism,Operator,6/12/16,1,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,24,BRC Culture & Tourism,Staff,8/24/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Commercial Operation-Customer Service,Yes
+Male,29,BRC Culture & Tourism,Operator,8/24/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,20,BRC Culture & Tourism,Operator,7/22/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,28,BRC Culture & Tourism,Operator,10/11/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,28,BRC Culture & Tourism,Staff,10/17/16,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Planning,Yes
+Male,27,BRC Culture & Tourism,Operator,10/25/16,2,Bachelor,Full-time,1,P 1.0,Commercial Operation-Customer Service,No
+Male,22,BRC Culture & Tourism,Operator,7/2/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,21,BRC Culture & Tourism,Operator,7/2/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,23,BRC Culture & Tourism,Operator,6/8/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,35,BRC Culture & Tourism,Staff,10/20/16,2,Bachelor,Full-time,1,P 1.3,Project Management,No
+Male,37,BRC Culture & Tourism,Assistant General Manager,10/8/16,0,Bachelor,Full-time,4,P 4.1,Commercial Operation-Operation Management,Yes
+Female,23,BRC Culture & Tourism,Operator,7/13/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,31,BRC Culture & Tourism,Manager,8/1/17,0,Bachelor,Full-time,3,P 3.1,Commercial Operation-Investment,Yes
+Male,25,BRC Culture & Tourism,Operator,8/3/17,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,33,BRC Culture & Tourism,Assistant General Manager,9/20/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.2,Property Management,Yes
+Female,22,BRC Culture & Tourism,Operator,7/10/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,37,BRC Culture & Tourism,Assistant General Manager,7/12/18,0,Bachelor,Full-time,4,P 4.1,Planning-Design,Yes
+Female,20,BRC Culture & Tourism,Operator,7/3/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,28,BRC Culture & Tourism,Operator,7/9/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,24,BRC Culture & Tourism,Operator,7/3/18,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,22,BRC Culture & Tourism,Operator,7/9/18,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,41,BRC Culture & Tourism,Operator,7/3/18,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,31,BRC Culture & Tourism,Manager,7/30/18,0,Bachelor,Full-time,3,P 3.1,Project Management,Yes
+Male,29,BRC Culture & Tourism,Manager,7/9/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Commercial Operation-Common,Yes
+Female,33,BRC Culture & Tourism,Staff,7/13/18,0,Bachelor,Full-time,1,P 1.3,Marketing & CRM-Channel,No
+Female,29,BRC Culture & Tourism,Staff,7/23/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Male,26,BRC Culture & Tourism,Operator,7/4/18,0,Bachelor,Full-time,1,P 1.0,Internal Business,Yes
+Female,24,BRC Culture & Tourism,Staff,7/6/18,0,Bachelor,Full-time,1,P 1.1,Administration,Yes
+Female,40,BRC Culture & Tourism,Assistant General Manager,7/16/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.1,Planning-Comprehensive,Yes
+Female,24,BRC Culture & Tourism,Staff,7/1/17,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Operation Management,Yes
+Female,21,BRC Culture & Tourism,Operator,6/2/16,0,High School,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,20,BRC Culture & Tourism,Operator,6/8/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,20,BRC Culture & Tourism,Operator,6/8/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,32,BRC Culture & Tourism,Manager,5/16/16,1,Bachelor,Full-time,3,P 3.1,Commercial Operation-Investment,Yes
+Female,47,BRC Culture & Tourism,Operator,5/8/16,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,26,BRC Culture & Tourism,Staff,5/18/16,0,Bachelor,Full-time,1,P 1.1,Marketing & CRM-Planning,Yes
+Female,26,BRC Culture & Tourism,Staff,5/23/16,0,Bachelor,Full-time,1,P 1.1,Property Management,Yes
+Female,21,BRC Culture & Tourism,Operator,6/2/16,1,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,22,BRC Culture & Tourism,Operator,5/4/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,23,BRC Culture & Tourism,Staff,7/1/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Marketing & CRM-Marketing,Yes
+Female,21,BRC Culture & Tourism,Operator,6/8/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,22,BRC Culture & Tourism,Operator,5/4/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,38,BRC Culture & Tourism,Operator,4/30/16,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,22,BRC Culture & Tourism,Operator,6/5/16,2,High School,Intern,1,P 1.0,Commercial Operation-Customer Service,No
+Male,31,BRC Culture & Tourism,Assistant General Manager,5/20/16,2,Graduate Level (Master & Ph.d.),Full-time,4,P 4.1,Human Resources,Yes
+Male,23,BRC Culture & Tourism,Operator,6/28/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,23,BRC Culture & Tourism,Operator,6/2/16,0,High School,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,34,BRC Culture & Tourism,Deputy Manager,6/6/16,1,Bachelor,Full-time,2,P 2.1,Property Management,Yes
+Female,22,BRC Culture & Tourism,Operator,6/2/16,0,High School,Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,28,BRC Culture & Tourism,Operator,5/19/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,23,BRC Culture & Tourism,Operator,5/4/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,28,BRC Culture & Tourism,Staff,7/28/17,0,Bachelor,Full-time,1,P 1.3,Management-Brand Management,Yes
+Male,34,BRC Culture & Tourism,Manager,8/14/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Marketing & CRM-Channel,Yes
+Female,25,BRC Culture & Tourism,Staff,9/11/17,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Property Management,Yes
+Male,24,BRC Culture & Tourism,Operator,8/1/17,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,41,BRC Culture & Tourism,Manager,8/25/17,0,Bachelor,Full-time,3,P 3.1,Management-Brand Management,Yes
+Male,27,BRC Culture & Tourism,Staff,8/15/17,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Operation Management,Yes
+Male,37,BRC Culture & Tourism,Assistant General Manager,9/1/17,0,Bachelor,Full-time,4,P 4.1,Marketing & CRM-Marketing & CRM Management,Yes
+Female,27,BRC Culture & Tourism,Staff,8/8/17,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Planning,Yes
+Female,33,BRC Culture & Tourism,Staff,5/21/18,0,Bachelor,Full-time,1,P 1.3,Auditing-Cost Management,Yes
+Female,24,BRC Culture & Tourism,Operator,5/10/18,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,35,BRC Culture & Tourism,Manager,5/23/18,0,Graduate Level (Master & Ph.d.),Full-time,3,P 3.1,Auditing,Yes
+Male,25,BRC Culture & Tourism,Staff,5/22/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Auditing,Yes
+Male,29,BRC Culture & Tourism,Operator,5/28/18,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,35,BRC Culture & Tourism,Manager,6/18/18,0,Bachelor,Full-time,3,P 3.1,Auditing,No
+Male,32,BRC Culture & Tourism,Staff,5/22/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Commercial Operation-Operation Management,No
+Male,25,BRC Culture & Tourism,Staff,5/21/18,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Planning,Yes
+Male,30,BRC Culture & Tourism,Operator,6/1/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,49,BRC Culture & Tourism,Operator,6/4/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,29,BRC Culture & Tourism,Assistant General Manager,5/24/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.1,Marketing & CRM-Marketing,Yes
+Male,43,BRC Culture & Tourism,General Manager,6/11/18,0,Bachelor,Full-time,6,M 6.1,Finance-Investment,Yes
+Male,30,BRC Culture & Tourism,Deputy Manager,6/4/18,0,Bachelor,Full-time,2,P 2.1,Commercial Operation-Planning,Yes
+Male,23,BRC Culture & Tourism,Operator,5/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,21,BRC Culture & Tourism,Operator,5/14/18,0,High School,Full-time,1,P 1.0,Finance-Seller,Yes
+Male,39,BRC Culture & Tourism,Operator,8/24/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,30,BRC Culture & Tourism,Manager,9/18/18,0,Bachelor,Full-time,2,P 2.1,Human Resources,Yes
+Female,33,BRC Culture & Tourism,Manager,9/12/18,0,Bachelor,Full-time,3,P 3.1,Marketing & CRM-Planning,Yes
+Female,36,BRC Culture & Tourism,Deputy General Manager,9/5/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.1,Human Resources,Yes
+Female,29,BRC Culture & Tourism,Deputy Manager,9/18/18,0,Bachelor,Full-time,2,P 2.1,Bidding,Yes
+Male,25,BRC Culture & Tourism,Staff,9/3/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Marketing & CRM-Marketing,Yes
+Female,32,BRC Culture & Tourism,Assistant General Manager,9/28/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.1,Planning-Comprehensive,Yes
+Male,29,BRC Culture & Tourism,Manager,9/10/18,0,Bachelor,Full-time,3,P 3.1,Planning-Comprehensive,No
+Male,40,BRC Culture & Tourism,Assistant General Manager,10/15/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.2,Commercial Operation-Operation Management,Yes
+Female,22,BRC Culture & Tourism,Staff,9/3/18,0,Bachelor,Intern,1,P 1.1,Human Resources,No
+Male,25,BRC Culture & Tourism,Staff,9/3/18,0,Bachelor,Intern,1,P 1.1,Project Management,Yes
+Female,24,BRC Culture & Tourism,Staff,7/9/18,0,Bachelor,Full-time,1,P 1.1,Management,Yes
+Male,35,BRC Culture & Tourism,Staff,5/8/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Information & Technology,Yes
+Female,46,BRC Culture & Tourism,Operator,6/25/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,29,BRC Culture & Tourism,Staff,6/25/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Administration,Yes
+Male,20,BRC Culture & Tourism,Operator,6/13/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,32,BRC Culture & Tourism,Operator,7/3/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,21,BRC Culture & Tourism,Operator,6/20/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,26,BRC Culture & Tourism,Staff,7/2/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Auditing-Cost Management,Yes
+Female,37,BRC Culture & Tourism,Manager,6/19/18,0,Graduate Level (Master & Ph.d.),Full-time,3,P 3.1,Planning-Comprehensive,Yes
+Male,46,BRC Culture & Tourism,Operator,6/11/18,0,High School,Full-time,1,P 1.0,Project Management,Yes
+Male,21,BRC Culture & Tourism,Operator,5/15/18,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,30,BRC Culture & Tourism,Operator,5/21/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,32,BRC Culture & Tourism,Manager,7/2/18,0,Bachelor,Full-time,3,P 3.1,Marketing & CRM-Channel,No
+Male,36,BRC Culture & Tourism,Operator,5/9/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,25,BRC Culture & Tourism,Operator,5/23/18,0,Bachelor,Full-time,1,P 1.0,Internal Business,Yes
+Female,24,BRC Culture & Tourism,Staff,9/3/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Marketing & CRM-Marketing,No
+Male,32,BRC Culture & Tourism,Assistant General Manager,9/10/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.2,Planning-Comprehensive,Yes
+Female,36,BRC Culture & Tourism,Operator,6/20/18,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,25,BRC Culture & Tourism,Staff,6/25/18,0,Bachelor,Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Female,36,BRC Culture & Tourism,Operator,5/23/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,24,BRC Culture & Tourism,Staff,6/4/18,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Operation Management,No
+Male,21,BRC Culture & Tourism,Operator,5/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,24,BRC Culture & Tourism,Operator,5/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,22,BRC Culture & Tourism,Operator,5/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,31,BRC Culture & Tourism,Operator,5/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,33,BRC Culture & Tourism,Staff,6/11/18,0,Bachelor,Full-time,1,P 1.1,Marketing & CRM-Planning,Yes
+Male,28,BRC Culture & Tourism,Staff,6/26/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Marketing & CRM-Planning,Yes
+Male,31,BRC Culture & Tourism,Staff,6/19/18,0,Under High School,Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Male,34,BRC Culture & Tourism,Operator,5/9/18,0,High School,Full-time,1,P 1.0,Property Management,Yes
+Male,21,BRC Culture & Tourism,Operator,5/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,18,BRC Culture & Tourism,Operator,5/15/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,22,BRC Culture & Tourism,Operator,5/21/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,25,BRC Culture & Tourism,Staff,6/25/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Management,Yes
+Male,46,BRC Culture & Tourism,Operator,5/9/18,0,High School,Full-time,1,P 1.0,Property Management,Yes
+Male,33,BRC Culture & Tourism,Operator,5/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,21,BRC Culture & Tourism,Staff,7/20/18,0,Bachelor,Intern,1,P 1.1,Human Resources,Yes
+Female,23,BRC Culture & Tourism,Staff,7/10/18,0,Bachelor,Intern,1,P 1.1,Management,Yes
+Male,43,BRC Culture & Tourism,Assistant General Manager,5/21/18,0,Bachelor,Full-time,4,P 4.2,Project Management,Yes
+Female,21,BRC Culture & Tourism,Staff,7/6/18,0,Bachelor,Intern,1,P 1.1,Commercial Operation-Commercial Management,Yes
+Female,25,BRC Culture & Tourism,Staff,7/9/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Finance-Investment,Yes
+Female,23,BRC Culture & Tourism,Staff,7/2/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Marketing & CRM-Marketing,Yes
+Male,24,BRC Culture & Tourism,Operator,5/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,34,BRC Culture & Tourism,Manager,6/15/18,0,Bachelor,Full-time,3,P 3.1,Information & Technology,Yes
+Male,24,BRC Culture & Tourism,Staff,7/10/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Planning,Yes
+Female,24,BRC Culture & Tourism,Staff,6/28/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Planning-Comprehensive,Yes
+Female,22,BRC Culture & Tourism,Staff,7/6/18,0,Bachelor,Intern,1,P 1.1,Finance-Comprehensive,Yes
+Male,17,BRC Culture & Tourism,Operator,6/26/18,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,32,BRC Culture & Tourism,Manager,6/28/18,0,Graduate Level (Master & Ph.d.),Full-time,3,P 3.1,Planning-Design,Yes
+Male,23,BRC Culture & Tourism,Staff,6/27/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Investment,Yes
+Male,24,BRC Culture & Tourism,Operator,6/14/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,33,BRC Culture & Tourism,Operator,6/20/18,0,Bachelor,Full-time,1,P 1.0,Finance-Seller,Yes
+Female,20,BRC Culture & Tourism,Operator,5/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,41,BRC Culture & Tourism,Assistant General Manager,5/23/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.2,Planning-Comprehensive,Yes
+Male,43,BRC Culture & Tourism,Operator,6/4/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,No
+Female,26,BRC Culture & Tourism,Operator,5/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,30,BRC Culture & Tourism,Manager,6/19/18,0,Bachelor,Full-time,3,P 3.1,Property Management,No
+Male,23,BRC Culture & Tourism,Operator,5/16/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,33,BRC Culture & Tourism,Manager,6/19/18,0,Bachelor,Full-time,3,P 3.1,Planning-Design,Yes
+Female,30,BRC Culture & Tourism,Staff,6/15/18,0,Bachelor,Full-time,1,P 1.1,Finance-Accounting,Yes
+Male,27,BRC Culture & Tourism,Staff,6/1/18,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Planning,Yes
+Male,24,BRC Culture & Tourism,Deputy Manager,6/25/18,0,Graduate Level (Master & Ph.d.),Full-time,2,P 2.1,Commercial Operation-Operation Management,Yes
+Male,38,BRC Culture & Tourism,Assistant General Manager,10/15/18,0,Bachelor,Full-time,4,P 4.1,Auditing-Cost Management,Yes
+Male,34,BRC Culture & Tourism,Assistant General Manager,9/10/18,0,Bachelor,Full-time,4,P 4.1,Bidding,No
+Male,41,BRC Culture & Tourism,Deputy General Manager,9/6/18,0,Bachelor,Full-time,5,M 5.1,Information & Technology,Yes
+Female,26,BRC Culture & Tourism,Operator,8/20/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,No
+Female,24,BRC Culture & Tourism,Operator,8/22/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Investment,Yes
+Female,22,BRC Culture & Tourism,Staff,8/20/18,0,Bachelor,Intern,1,P 1.1,Management,Yes
+Male,39,BRC Culture & Tourism,General Manager,9/14/18,0,Bachelor,Full-time,6,M 6.1,Commercial Operation-Planning,No
+Male,32,BRC Culture & Tourism,Operator,4/18/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,41,BRC Culture & Tourism,Operator,3/31/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,41,BRC Culture & Tourism,Operator,3/16/16,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,31,BRC Culture & Tourism,Staff,3/17/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Administration,Yes
+Female,36,BRC Culture & Tourism,Deputy Manager,4/12/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,2,P 2.1,Marketing & CRM-Planning,Yes
+Male,29,BRC Culture & Tourism,Staff,4/25/16,2,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Marketing & CRM-Channel,No
+Male,37,BRC Culture & Tourism,Staff,4/18/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Marketing & CRM-Design,Yes
+Male,37,BRC Culture & Tourism,Manager,4/12/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.2,Marketing & CRM-Channel,Yes
+Male,25,BRC Culture & Tourism,Operator,5/26/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,28,BRC Culture & Tourism,Operator,5/3/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,24,BRC Culture & Tourism,Operator,7/1/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,40,BRC Culture & Tourism,Operator,7/7/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Male,40,BRC Culture & Tourism,Assistant General Manager,7/6/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.2,Auditing-Cost Management,Yes
+Female,30,BRC Culture & Tourism,Operator,6/12/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,23,BRC Culture & Tourism,Staff,1/4/18,0,Bachelor,Intern,1,P 1.1,Commercial Operation-Planning,Yes
+Female,20,BRC Culture & Tourism,Operator,6/9/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,34,BRC Culture & Tourism,Deputy Manager,6/27/17,0,Bachelor,Full-time,2,P 2.1,Marketing & CRM-Planning,Yes
+Male,31,BRC Culture & Tourism,Operator,7/20/17,1,High School,Full-time,1,P 1.0,Project Management,Yes
+Male,27,BRC Culture & Tourism,Operator,7/20/17,1,Under High School,Full-time,1,P 1.0,Project Management,Yes
+Male,24,BRC Culture & Tourism,Operator,9/17/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Investment,No
+Female,23,BRC Culture & Tourism,Staff,8/13/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Finance-Accounting,Yes
+Female,24,BRC Culture & Tourism,Staff,8/17/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Commercial Operation-Operation Management,Yes
+Male,38,BRC Culture & Tourism,Assistant General Manager,9/14/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.1,Human Resources,No
+Female,29,BRC Culture & Tourism,Operator,8/13/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,22,BRC Culture & Tourism,Staff,8/6/18,0,Bachelor,Intern,1,P 1.1,Project Management,Yes
+Female,34,BRC Culture & Tourism,Assistant General Manager,8/6/18,0,Graduate Level (Master & Ph.d.),Full-time,4,P 4.1,Management-Buisness Management,No
+Male,23,BRC Culture & Tourism,Operator,8/7/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,22,BRC Culture & Tourism,Operator,8/16/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,43,BRC Culture & Tourism,Assistant General Manager,9/11/18,0,Bachelor,Full-time,4,P 4.1,Commercial Operation-Operation Management,Yes
+Male,35,BRC Culture & Tourism,Staff,3/10/16,0,High School,Full-time,1,P 1.3,Commercial Operation-Operation Management,Yes
+Male,34,BRC Culture & Tourism,Manager,3/31/16,2,Bachelor,Full-time,3,P 3.1,Commercial Operation-Investment,No
+Female,25,BRC Culture & Tourism,Staff,3/24/16,0,Bachelor,Intern,1,P 1.0,Marketing & CRM-Planning,Yes
+Male,31,BRC Culture & Tourism,Staff,4/25/16,0,Bachelor,Full-time,1,P 1.1,Marketing & CRM-Marketing,Yes
+Male,37,BRC Culture & Tourism,Manager,4/18/16,2,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.1,Project Management,No
+Male,36,BRC Culture & Tourism,Assistant General Manager,4/5/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.1,Commercial Operation-Common,Yes
+Male,36,BRC Culture & Tourism,Deputy Manager,3/28/16,1,"Community College, Two-Year Program, or Equivalent ",Full-time,2,P 2.1,Commercial Operation-Operation Management,Yes
+Male,22,BRC Culture & Tourism,Staff,7/30/18,0,Bachelor,Intern,1,P 1.1,Human Resources,No
+Male,26,BRC Culture & Tourism,Operator,8/1/18,0,Bachelor,Full-time,1,P 1.0,Property Management,Yes
+Female,22,BRC Culture & Tourism,Operator,8/6/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,23,BRC Culture & Tourism,Operator,8/1/18,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,29,BRC Culture & Tourism,Operator,8/1/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Property Management,Yes
+Female,23,BRC Culture & Tourism,Staff,7/30/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.2,Marketing & CRM-Costumer Relationship,Yes
+Male,40,BRC Culture & Tourism,Assistant General Manager,8/28/18,0,Bachelor,Full-time,4,P 4.2,Commercial Operation-Operation Management,No
+Male,45,BRC Culture & Tourism,Operator,8/1/18,0,High School,Full-time,1,P 1.0,Property Management,Yes
+Male,26,BRC Culture & Tourism,Operator,8/1/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,No
+Male,27,BRC Culture & Tourism,Operator,8/1/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Operation Management,Yes
+Female,21,BRC Culture & Tourism,Operator,8/1/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,22,BRC Culture & Tourism,Staff,8/3/18,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Customer Service,No
+Male,23,BRC Culture & Tourism,Staff,8/3/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Investment,Yes
+Male,26,BRC Culture & Tourism,Operator,8/2/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,18,BRC Culture & Tourism,Operator,8/7/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,39,BRC Culture & Tourism,Assistant General Manager,9/3/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.2,Marketing & CRM-Marketing,No
+Male,23,BRC Culture & Tourism,Staff,8/3/18,0,Bachelor,Intern,1,P 1.1,Human Resources,Yes
+Female,20,BRC Culture & Tourism,Operator,8/1/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,27,BRC Culture & Tourism,Operator,8/6/18,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Customer Service,No
+Female,36,BRC Culture & Tourism,Assistant General Manager,8/13/18,0,Bachelor,Full-time,4,P 4.1,Human Resources,Yes
+Male,22,BRC Culture & Tourism,Operator,8/1/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,62,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,30,BRC Culture & Tourism,Operator,10/16/15,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,64,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,32,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,45,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,28,BRC Culture & Tourism,Staff,11/24/15,0,Bachelor,Full-time,1,P 1.1,Commercial Operation-Operation Management,Yes
+Female,30,BRC Culture & Tourism,Deputy Manager,2/14/16,0,Graduate Level (Master & Ph.d.),Full-time,2,P 2.1,Commercial Operation-Planning,Yes
+Female,25,BRC Culture & Tourism,Staff,2/29/16,0,Bachelor,Intern,1,P 1.0,Administration,Yes
+Male,45,BRC Culture & Tourism,Manager,6/11/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Finance-Accounting,Yes
+Female,25,BRC Culture & Tourism,Staff,3/4/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.1,Commercial Operation-Operation Management,Yes
+Male,28,BRC Culture & Tourism,Staff,2/23/16,2,Bachelor,Full-time,1,P 1.3,Commercial Operation-Common,Yes
+Female,24,BRC Culture & Tourism,Staff,3/4/16,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.1,Commercial Operation-Operation Management,Yes
+Male,32,BRC Culture & Tourism,Operator,11/9/15,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,49,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,48,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,33,BRC Culture & Tourism,Operator,10/1/15,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,49,BRC Culture & Tourism,Operator,10/1/15,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,41,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,31,BRC Culture & Tourism,Operator,10/16/15,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,40,BRC Culture & Tourism,Operator,10/16/15,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,59,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,32,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,42,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,23,BRC Culture & Tourism,Operator,10/16/15,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,55,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,52,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,30,BRC Culture & Tourism,Staff,12/24/15,0,Bachelor,Full-time,1,P 1.3,Finance-Accounting,Yes
+Female,61,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,43,BRC Culture & Tourism,Operator,10/16/15,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,56,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,41,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,30,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,53,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,48,BRC Culture & Tourism,Operator,10/16/15,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,44,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,51,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,27,BRC Culture & Tourism,Operator,10/16/15,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,58,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,56,BRC Culture & Tourism,Operator,10/16/15,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,53,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,55,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,30,BRC Culture & Tourism,Staff,1/14/16,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.1,Marketing & CRM-Channel,Yes
+Female,32,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,53,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,35,BRC Culture & Tourism,Operator,10/16/15,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,27,BRC Culture & Tourism,Operator,10/16/15,0,Bachelor,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,46,BRC Culture & Tourism,Operator,10/16/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,29,BRC Culture & Tourism,Operator,10/16/15,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,33,BRC Culture & Tourism,Assistant General Manager,10/26/15,2,Graduate Level (Master & Ph.d.),Full-time,4,P 4.1,Finance-Investment,Yes
+Male,35,BRC Culture & Tourism,Assistant General Manager,11/23/15,1,"Community College, Two-Year Program, or Equivalent ",Full-time,4,P 4.1,Commercial Operation-Commercial Management,Yes
+Female,23,BRC Culture & Tourism,Operator,10/1/15,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,33,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,42,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,42,BRC Culture & Tourism,Operator,11/9/15,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,43,BRC Culture & Tourism,Operator,11/9/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,26,BRC Culture & Tourism,Staff,11/4/15,1,Bachelor,Full-time,1,P 1.1,Commercial Operation-Customer Service,Yes
+Male,40,BRC Culture & Tourism,Manager,2/8/17,0,Bachelor,Full-time,3,P 3.1,Finance-Comprehensive,Yes
+Female,30,BRC Culture & Tourism,Operator,10/1/15,1,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,53,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,58,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,45,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,48,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,47,BRC Culture & Tourism,Operator,10/1/15,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,51,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,46,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,52,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,35,BRC Culture & Tourism,Operator,11/12/15,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,36,BRC Culture & Tourism,Staff,11/14/15,0,Bachelor,Full-time,1,P 1.3,Commercial Operation-Planning,Yes
+Female,52,BRC Culture & Tourism,Operator,11/9/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,41,BRC Culture & Tourism,Assistant General Manager,10/28/15,0,Bachelor,Full-time,4,P 4.1,Commercial Operation-Operation Management,Yes
+Female,35,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,53,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,26,BRC Culture & Tourism,Operator,10/1/15,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,36,BRC Culture & Tourism,Deputy Manager,9/25/15,0,"Community College, Two-Year Program, or Equivalent ",Full-time,3,P 3.1,Administration,Yes
+Female,36,BRC Culture & Tourism,Assistant General Manager,9/18/15,2,Bachelor,Full-time,4,P 4.1,Commercial Operation-Common,Yes
+Male,36,BRC Culture & Tourism,Manager,10/8/15,3,Bachelor,Full-time,3,P 3.1,Commercial Operation-Operation Management,No
+Male,34,BRC Culture & Tourism,Assistant General Manager,9/21/15,2,Bachelor,Full-time,4,P 4.1,Information & Technology,Yes
+Female,24,BRC Culture & Tourism,Staff,10/8/18,0,Bachelor,Intern,1,P 1.1,Planning-Comprehensive,Yes
+Female,26,BRC Culture & Tourism,Staff,7/20/15,0,Bachelor,Intern,1,P 1.0,Administration,Yes
+Male,31,BRC Culture & Tourism,Manager,7/14/15,2,Graduate Level (Master & Ph.d.),Full-time,3,P 3.1,Commercial Operation-Common,Yes
+Male,37,BRC Culture & Tourism,Deputy Manager,7/13/15,0,Bachelor,Full-time,2,P 2.1,Planning-Comprehensive,Yes
+Male,32,BRC Culture & Tourism,Manager,8/25/15,0,Bachelor,Full-time,3,P 3.1,Commercial Operation-Operation Management,Yes
+Female,21,BRC Culture & Tourism,Operator,6/9/17,0,"Community College, Two-Year Program, or Equivalent ",Intern,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,19,BRC Culture & Tourism,Operator,7/1/18,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,24,BRC Culture & Tourism,Operator,6/12/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Female,25,BRC Culture & Tourism,Staff,6/27/17,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Human Resources,Yes
+Female,30,BRC Culture & Tourism,Operator,6/19/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,43,BRC Culture & Tourism,Operator,6/21/17,0,High School,Full-time,1,P 1.0,Property Management,Yes
+Male,33,BRC Culture & Tourism,Staff,7/20/17,1,Bachelor,Full-time,1,P 1.1,Marketing & CRM-Planning,No
+Male,32,BRC Culture & Tourism,Staff,6/12/17,0,Bachelor,Full-time,1,P 1.3,Human Resources,Yes
+Male,30,BRC Culture & Tourism,Staff,6/15/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Bidding,Yes
+Male,20,BRC Culture & Tourism,Operator,7/1/18,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Female,27,BRC Culture & Tourism,Operator,7/24/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,23,BRC Culture & Tourism,Staff,9/17/18,0,Bachelor,Intern,1,P 1.1,Human Resources,Yes
+Female,23,BRC Culture & Tourism,Staff,10/29/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Human Resources,Yes
+Female,22,BRC Culture & Tourism,Staff,11/12/18,0,Bachelor,Intern,1,P 1.1,Project Management,Yes
+Male,28,BRC Culture & Tourism,Staff,12/19/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.3,Property Management,Yes
+Male,57,BRC Culture & Tourism,Deputy Chairman,12/12/17,0,Bachelor,Full-time,8,M 8.1,Management,Yes
+Male,43,BRC Culture & Tourism,Deputy General Manager,1/2/18,1,Bachelor,Full-time,4,P 4.1,Commercial Operation-Planning,No
+Male,37,BRC Culture & Tourism,Assistant General Manager,4/9/18,0,Bachelor,Full-time,4,P 4.1,Auditing-Cost Management,No
+Male,30,BRC Culture & Tourism,Manager,3/12/18,0,Bachelor,Full-time,3,P 3.1,Finance-Comprehensive,Yes
+Male,29,BRC Culture & Tourism,Manager,3/7/18,0,Bachelor,Full-time,3,P 3.1,Commercial Operation-Investment,Yes
+Female,43,BRC Culture & Tourism,General Manager,3/26/18,0,Graduate Level (Master & Ph.d.),Full-time,6,M 6.1,Marketing & CRM-Marketing,Yes
+Female,22,BRC Culture & Tourism,Staff,3/1/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Human Resources,Yes
+Female,24,BRC Culture & Tourism,Staff,3/7/18,0,Bachelor,Intern,1,P 1.1,Management,No
+Male,28,BRC Culture & Tourism,Staff,3/12/18,0,Bachelor,Full-time,1,P 1.1,Marketing & CRM-Planning,Yes
+Female,24,BRC Culture & Tourism,Staff,3/12/18,0,Graduate Level (Master & Ph.d.),Intern,1,P 1.1,Finance-Accounting,Yes
+Male,23,BRC Culture & Tourism,Operator,6/1/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Project Management,Yes
+Male,31,BRC Culture & Tourism,Assistant General Manager,8/31/18,0,Bachelor,Full-time,2,P 2.1,Auditing,No
+Male,28,BRC Culture & Tourism,Operator,5/13/17,1,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Project Management,Yes
+Male,44,BRC Culture & Tourism,Deputy Manager,6/23/17,0,Bachelor,Full-time,2,P 2.1,Finance-Accounting,Yes
+Male,25,BRC Culture & Tourism,Operator,6/9/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,27,BRC Culture & Tourism,Staff,5/10/17,1,High School,Full-time,1,P 1.3,Commercial Operation-Operation Management,No
+Male,24,BRC Culture & Tourism,Operator,6/2/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,31,BRC Culture & Tourism,Staff,5/25/17,0,Bachelor,Full-time,1,P 1.3,Marketing & CRM-Design,Yes
+Male,47,BRC Culture & Tourism,Operator,5/16/17,0,Under High School,Full-time,1,P 1.0,Commercial Operation-Customer Service,Yes
+Male,28,BRC Culture & Tourism,Operator,10/23/17,0,High School,Full-time,1,P 1.0,Commercial Operation-Common,Yes
+Male,33,BRC Culture & Tourism,Assistant General Manager,11/27/17,0,Bachelor,Full-time,4,P 4.2,Commercial Operation-Operation Management,Yes
+Male,35,BRC Culture & Tourism,Manager,11/10/17,1,Bachelor,Full-time,3,M 3.0,Finance-Comprehensive,No
+Male,22,BRC Culture & Tourism,Operator,11/2/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Commercial Management,Yes
+Male,33,BRC Culture & Tourism,Deputy Manager,11/6/17,1,Bachelor,Full-time,2,P 2.1,Commercial Operation-Operation Management,Yes
+Male,29,BRC Culture & Tourism,Staff,11/7/17,0,Bachelor,Full-time,1,P 1.1,Marketing & CRM-Channel,Yes
+Male,47,BRC Culture & Tourism,General Manager,10/23/17,0,Graduate Level (Master & Ph.d.),Full-time,6,M 6.1,Management,Yes
+Male,28,BRC Culture & Tourism,Operator,10/23/17,0,"Community College, Two-Year Program, or Equivalent ",Full-time,1,P 1.0,Commercial Operation-Common,Yes
