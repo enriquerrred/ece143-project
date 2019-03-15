@@ -1,8 +1,12 @@
 ###################################################################################
 This is the final project of ECE 143 Programming for Data Analysis
+
 At Department of Electrical and Computer Engineering
+
 University of California San Diego
+
 All right reserved by Group 14 Nikhil Mohan, Xuezhu Hong, Qi Ma, and Changhan Ge
+
 Copyright @ {nmohan, xuhong, qima, chge}@eng.ucsd.edu
 ###################################################################################
 
