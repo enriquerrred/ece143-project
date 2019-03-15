@@ -35,3 +35,5 @@ The ipython notebook file "BRCLeaving-DataPlot-ChEdit" is for processing and vis
 The "Data_loader.py" & "Prediction.ipynb" is for doing machine learning on IBM Dataset
 
 The "Employee review.ipynb" is for doing machine learning and analysis on employee review dataset
+
+The "load_data.py", "get_high_frequency_words.py", "common_words.py" and "employee_vs_company.py" are for processing and analysis of employees' comments toward companies of BRC dataset
