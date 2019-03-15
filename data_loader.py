@@ -9,6 +9,16 @@ from sklearn.preprocessing import OneHotEncoder
 
 
 def convert(x):
+    '''
+    Takes a string containing either Yes or No and converts it into a binary valued variable which
+    is either 0 or 1
+    
+    Helper funtion - NOT to be used by the client
+    '''
+    assert isinstance(x,str)
+    assert(x == 'Yes' or x == 'No')
+    
+  
     if x=='Yes':
         return 1
     else:
@@ -18,7 +28,24 @@ def convert(x):
 
 class DataLoader():
     def __init__(self,path_to_file,ignore = ['BusinessTravel','Department','EducationField','Gender','JobRole','MaritalStatus','EmployeeNumber','EmployeeCount','Over18','OverTime','StockOptionLevel','StandardHours'],categorical = ['Education','EnvironmentSatisfaction','JobInvolvement','JobLevel','JobSatisfaction','PerformanceRating','RelationshipSatisfaction','WorkLifeBalance']):
-        dm = pd.read_csv(path_to_file,usecols = lambda x: x not in ignore+categorical)
+        '''
+        Initializes and returns an instance of a data loader class. Specify the path to the IBM dataset and if needed specify
+        those columns that need to be ignored and also mention those feature names which are categorical features. If the IBM
+        dataset is used then these need not be specified.
+        
+        Args:
+            path_to_file : Path containing the IBM review dataset path
+            ignore : Feature names to be ignored for the purpose of classification (List of strings)
+            categorical : Feature names to be treated as categorical variables.
+        Returns:
+            An instance of the data loader object
+        
+        '''
+        assert isinstance(path,str)
+        assert isinstance(ignore,list)
+        assert isinstance(categorical,list)
+        
+        
         cols = dm.columns.tolist()
         cols = [cols[1]] + [cols[0]] + cols[2:]
         dm = dm[cols]
@@ -46,6 +73,20 @@ class DataLoader():
         self.new_names = list(cols[1:]) + categorical
     
     def get_data(self,mode = 'training'):
+        '''
+        Returns corresponding matrix of the form n_samples x n_features of either training or testing dataset and the
+        corresponding labels in the form of (n_samples,). By default training dataset is returned.
+        
+        Args:
+            mode : Specify either 'training' or 'testing'
+        Returns:
+            data_mtx : training or testing matrix of the form n_samples x n_features
+            labels :  labels in the form of (n_samples,)
+            feature_names, new_names : Labels which correspond to the original names of the features and after OneHotEncoding
+            of categorical variables. Please pass these variables without tampering them as specified in Prediction.ipynb
+        '''
+        
+        
         assert isinstance(mode,str)
         assert(mode == 'training' or mode == 'testing')
         
