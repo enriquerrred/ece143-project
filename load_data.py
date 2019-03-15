@@ -15,8 +15,7 @@ employees, 'former' comtains data of former employees
 'sort_by_company' is the list of sub_datasets for each company in 
 the dataset 
 
-After running the script, we should get a new csv file 'company_pros_cons.csv',
-which will be used by 'employee_vs_company.py'.
+After running the script, we should get a new csv file 'company_pros_cons.csv'.
 
 *****NOTICE*****
 
@@ -54,7 +53,7 @@ kwds_cons.to_csv('all_cons.csv')
 '''
 
 
-#Get .csv file 'company_pros_cons.py':
+#Get .csv file 'company_pros_cons.csv':
 
 pros = [get_that_word(sort_by_company[name]['pros'], name) for name in company]
 cons = [get_that_word(sort_by_company[name]['cons'], name) for name in company]
