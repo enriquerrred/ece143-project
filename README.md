@@ -41,6 +41,7 @@ The "Employee review.ipynb" is for doing machine learning and analysis on employ
 - pandas
 - sklearn
 - matplotlib
+- xgboost
 - ggplot
 - seaborn
 - matplotlib
