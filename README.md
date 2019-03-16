@@ -40,9 +40,9 @@ The "Employee review.ipynb" is for doing machine learning and analysis on employ
 - numpy
 - pandas
 - sklearn
--matplotlib
-
-
-
+- matplotlib
+- ggplot
+- seaborn
+- matplotlib
 
 The "load_data.py" and "get_high_frequency_words.py" are for processing and analysis of employees' comments toward companies of BRC dataset, "Comments Visualization - BRC.ipynb" is the visualization of the results
